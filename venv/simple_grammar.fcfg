@@ -24,8 +24,6 @@ S[LOC=?l, NUM=?n, PER=?p, TNS=?t] -> NP[LOC=?l, NUM=?n,PER=?p] VP[NUM=?n,PER=?p,
 NP[NUM=?n,PER=?p] -> Det[NUM=?n] N[NUM=?n,PER=?p]
 NP[NUM=?n,PER=?p] -> Det[NUM=?n] X[NUM=?n,PER=?p]
 
-# mettere l'NP qui sotto con una sigla diversa che deve essere richiamata da PP -> P NP. In pratica vai a fare ciò che è stato fatto con Y
-
 Z[NUM=?n,PER=?p] -> DAdj[NUM=?n] N[NUM=?n,PER=?p]
 NP[LOC=?l,NUM=sg, PER=2] -> 'Tu'
 NP[LOC=?l,NUM=sg, PER=3] -> 'Skywalker'
